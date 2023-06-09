@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod __reference=oleh hello
+sudo chmod __reference=oleh hello
