@@ -1,1 +1,1 @@
-my first readme
+Starting with Shell Redirections
